@@ -24,14 +24,14 @@ METRICS = [
     {
         "type": "metrics",
         "dataset": "train",
-        "r2": 0.889,
-        "mse": 5.950,
-        "mad": 1.600,
+        "r2": 0.660,
+        "mse": 7.856,
+        "mad": 1.927,
     },
     {
         "type": "metrics",
         "dataset": "test",
-        "r2": 0.728,
+        "r2": 0.437,
         "mse": 32.910,
         "mad": 2.430,
     },
